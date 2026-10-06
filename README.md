@@ -1,181 +1,139 @@
 <div align="center">
 
-<img src="assets/banner-alice.svg" width="100%" alt="Oi, eu sou a Alice — desenvolvedora web front-end, marca Alice.Dev" />
+<img src="assets/banner-alice.svg" width="100%" alt="Alice Silva — desenvolvedora web front-end, Alice.Dev. Banner com inicialização animada." />
 
-![Inicializando Alice.Dev](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2400&pause=1200&color=f4dfdf&center=true&vCenter=true&width=680&height=48&lines=%3E+Criatividade+na+ess%C3%AAncia.+Tecnologia+na+constru%C3%A7%C3%A3o.;%3E+Desenvolvedora+Web+Front-end;%3E+Graduanda+em+Engenharia+de+Software)
+![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1100&color=f4dfdf&background=570209&center=true&vCenter=true&width=720&height=50&lines=%3E+Alice.Dev+%7C+criatividade+%2B+tecnologia;%3E+Desenvolvedora+Web+Front-end;%3E+Graduanda+em+Engenharia+de+Software;%3E+Sites+e+solu%C3%A7%C3%B5es+com+identidade)
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-alicesilva.dev-a41817?style=flat-square&logo=instagram&logoColor=f7f1e5&labelColor=570209)](https://www.instagram.com/alicesilva.dev/)
-![Marca](https://img.shields.io/badge/ALICE.DEV-WEBSITES_%26_SOLUÇÕES-a41817?style=flat-square&labelColor=570209)
+[![Instagram](https://img.shields.io/badge/Instagram-alicesilva.dev-a41817?style=flat-square&logo=instagram&logoColor=f7f1e5&labelColor=570209)](https://www.instagram.com/alicesilva.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-alicesilvadr-a41817?style=flat-square&logo=github&logoColor=f7f1e5&labelColor=570209)](https://github.com/alicesilvadr)
 
-**[Minha trajetória](#sobre-mim) &nbsp; / &nbsp; [Projetos](#projetos-em-destaque) &nbsp; / &nbsp; [Vamos criar](#vamos-conectar)**
+**[Sobre mim](#sobre-mim) · [Stack](#tech-stack) · [Projetos](#projetos-em-destaque) · [Contato](#vamos-conectar)**
 
 </div>
 
----
 ## Sobre mim
 
-Olá! Sou a **Alice Silva**, desenvolvedora web e graduanda em **Engenharia de Software**. Estou construindo minha trajetória conectando desenvolvimento, criatividade e a criação de sites e soluções digitais.
+Sou **Alice Silva**, desenvolvedora web front-end e graduanda em **Engenharia de Software**. Na minha marca, **Alice.Dev**, conecto criatividade e tecnologia à criação de websites, landing pages e e-commerce.
 
-Minha marca, **Alice.Dev**, conecta criatividade e tecnologia na criação de websites, landing pages e e-commerce. Também sou membra da equipe de desenvolvimento web front-end da **JW Soluções Digitais**.
+Também sou membra da equipe de desenvolvimento web front-end da **JW Soluções Digitais**. Aqui compartilho meus projetos de estudo, os fundamentos que estou construindo e minha evolução em desenvolvimento web.
 
-Aqui compartilho projetos de estudo e a evolução da minha prática. Os projetos que desenvolvi em um curso fazem parte dessa base: cada um é uma oportunidade de aplicar conceitos, entender decisões e melhorar minhas soluções.
-
-> **Meu foco:** transformar ideias em experiências digitais que comuniquem a identidade de cada negócio.
+> Meu foco é criar experiências digitais que comuniquem a identidade de cada negócio — com atenção à apresentação e à organização do conteúdo.
 
 ## Sites e soluções digitais
 
-![Websites, landing pages e e-commerce](assets/faixa-servicos.svg)
+<img src="assets/faixa-servicos.svg" width="100%" alt="Serviços Alice.Dev: websites, landing pages e e-commerce" />
 
-[Conversar sobre um projeto](#vamos-conectar)
+[Vamos conversar sobre seu projeto →](#vamos-conectar)
 
-## Tecnologias e ferramentas
+## Tech Stack
 
-**Base aplicada nos meus projetos de estudo**
+**Base aplicada nos projetos**
 
 ![HTML5](https://img.shields.io/badge/HTML5-a41817?style=for-the-badge&logo=html5&logoColor=f7f1e5)
 ![CSS3](https://img.shields.io/badge/CSS3-a41817?style=for-the-badge&logo=css&logoColor=f7f1e5)
 
 **Trilha de aprendizado**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Em_estudo-f7f1e5?style=for-the-badge&logo=javascript&logoColor=f7f1e5&labelColor=570209)
+![JavaScript em estudo](https://img.shields.io/badge/JavaScript-Em_estudo-a41817?style=for-the-badge&logo=javascript&logoColor=f7f1e5&labelColor=570209)
 
-**Onde compartilho minha evolução**
+## Ferramentas utilizadas
 
-![GitHub](https://img.shields.io/badge/GitHub-570209?style=for-the-badge&logo=github&logoColor=f7f1e5)
+**Criação e interfaces**
 
-**Ferramentas que utilizo**
+![WordPress](https://img.shields.io/badge/WordPress-a41817?style=for-the-badge&logo=wordpress&logoColor=f7f1e5)
+![Figma](https://img.shields.io/badge/Figma-a41817?style=for-the-badge&logo=figma&logoColor=f7f1e5)
+![Lovable](https://img.shields.io/badge/Lovable-570209?style=for-the-badge&logoColor=f7f1e5)
+![GIMP](https://img.shields.io/badge/GIMP-570209?style=for-the-badge&logo=gimp&logoColor=f7f1e5)
 
-| Área | Ferramentas |
-| --- | --- |
-| Criação e interfaces | WordPress · Figma · Lovable · GIMP |
-| Desenvolvimento e ambiente | VS Code · Android Studio · Docker · FileZilla |
-| Apoio com IA | Claude · ChatGPT · Antigravity |
-| Colaboração | Discord |
+**Desenvolvimento e ambiente**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-a41817?style=for-the-badge&logoColor=f7f1e5)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-a41817?style=for-the-badge&logo=androidstudio&logoColor=f7f1e5)
+![Docker](https://img.shields.io/badge/Docker-570209?style=for-the-badge&logo=docker&logoColor=f7f1e5)
+![FileZilla](https://img.shields.io/badge/FileZilla-570209?style=for-the-badge&logo=filezilla&logoColor=f7f1e5)
+
+**Apoio com IA e colaboração**
+
+![Claude](https://img.shields.io/badge/Claude-a41817?style=for-the-badge&logo=claude&logoColor=f7f1e5)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-a41817?style=for-the-badge&logoColor=f7f1e5)
+![Antigravity](https://img.shields.io/badge/Antigravity-570209?style=for-the-badge&logoColor=f7f1e5)
+![Discord](https://img.shields.io/badge/Discord-570209?style=for-the-badge&logo=discord&logoColor=f7f1e5)
 
 ## Projetos em destaque
 
-Os projetos abaixo fazem parte da minha trajetória de estudo em desenvolvimento web. São estudos do curso **HTML5 e CSS3**, de **Gustavo Guanabara — Curso em Vídeo**, apresentados com seu contexto de aprendizado.
+Estudos do curso **HTML5 e CSS3**, de **Gustavo Guanabara — Curso em Vídeo**. Cada projeto representa uma etapa da minha base em desenvolvimento web.
 
-[![Interface de login — estudo de front-end](assets/projeto-login.svg)](https://github.com/alicesilvadr/projeto-login)
+<a href="https://github.com/alicesilvadr/projeto-login"><img src="assets/projeto-login.svg" width="100%" alt="Interface de login — projeto de estudo em HTML e CSS. Abrir repositório." /></a>
 
-**Projeto de estudo · HTML e CSS**
+Formulário com campos de e-mail e senha, ícones e media queries. Um estudo de **interface e adaptação de layout**.
 
-Interface com campos de e-mail e senha, ícones e folhas de estilo para adaptação do layout a diferentes telas.
+<a href="https://github.com/alicesilvadr/projeto-cordel"><img src="assets/projeto-cordel.svg" width="100%" alt="Cordel Moderno — projeto de estudo em HTML e CSS. Abrir repositório." /></a>
 
-**Conceitos presentes:** formulários HTML, organização visual e media queries.  
-**Conexão com meu foco:** construir interfaces claras para experiências digitais.
+Página dedicada à poesia de **Milton Duarte**, com tipografia, imagens e fundo fixo. Um estudo de **composição e ritmo de leitura**.
 
-[↗ Explorar código](https://github.com/alicesilvadr/projeto-login)
+<a href="https://github.com/alicesilvadr/projeto-android"><img src="assets/projeto-android.svg" width="100%" alt="História do mascote Android — projeto de estudo em HTML e CSS. Abrir repositório." /></a>
 
----
+Artigo com imagens adaptativas e vídeo incorporado. Um estudo de **estrutura semântica e conteúdo multimídia**.
 
-[![Cordel Moderno — estudo de front-end](assets/projeto-cordel.svg)](https://github.com/alicesilvadr/projeto-cordel)
+<sub>As imagens dos cards são ilustrações dos temas dos projetos.</sub>
 
-**Projeto de curso · HTML e CSS**
+**Outros repositórios:** [HTML e CSS](https://github.com/alicesilvadr/html-css) · [JavaScript](https://github.com/alicesilvadr/javascript) · [Projeto social](https://github.com/alicesilvadr/Projeto-social) · [Portfólio do curso](https://github.com/alicesilvadr/projeto-portifolio)
 
-Página dedicada ao cordel de Milton Duarte, combinando poesia, tipografia e seções com imagens de fundo.
-
-**Conceitos presentes:** composição visual, fontes web e efeito de fundo fixo.  
-**Conexão com meu foco:** usar o desenvolvimento web para apresentar conteúdo com personalidade.
-
-[↗ Explorar código](https://github.com/alicesilvadr/projeto-cordel)
-
----
-
-[![História do mascote Android — estudo de front-end](assets/projeto-android.svg)](https://github.com/alicesilvadr/projeto-android)
-
-**Projeto de curso · HTML e CSS**
-
-Página de conteúdo sobre a história do mascote Android, com artigo, imagens adaptativas e vídeo incorporado.
-
-**Conceitos presentes:** estrutura semântica, elementos multimídia e apresentação de conteúdo.  
-**Conexão com meu foco:** organizar informações em páginas que comuniquem com clareza.
-
-[↗ Explorar código](https://github.com/alicesilvadr/projeto-android)
-
-**Mais da minha jornada:** [HTML e CSS](https://github.com/alicesilvadr/html-css) · [Trilha de JavaScript](https://github.com/alicesilvadr/javascript) · [Projeto social](https://github.com/alicesilvadr/Projeto-social) · [Projeto de portfólio do curso](https://github.com/alicesilvadr/projeto-portifolio)
-## Meu próximo capítulo
-
-<!-- Proposta de objetivos: ajuste para refletir seus planos reais. -->
+## Objetivos atuais
 
 ```text
-alice@digital-studio:~$ roadmap
+alice@digital-studio:~$ cat roadmap.txt
 
-[em andamento] Graduação em Engenharia de Software
-[próximo passo] Documentar os aprendizados dos projetos
-[próximo passo] Evoluir meu portfólio de desenvolvimento web
-[próximo passo] Aprofundar acessibilidade e responsividade
-[direção]       Criar sites e soluções com identidade
+[EM FORMAÇÃO]  Engenharia de Software
+[DIREÇÃO]      Aprofundar desenvolvimento front-end
+[DIREÇÃO]      Documentar projetos e aprendizados
+[DIREÇÃO]      Evoluir acessibilidade e responsividade
+[PROPÓSITO]    Criar soluções digitais com identidade
 
-> Aprender. Construir. Refinar.
+> aprender → construir → refinar
 ```
 
-<details open>
-<summary><strong>Painel de atividade</strong></summary>
-
-## Atividade no GitHub
-
-<!-- Indicadores de serviços externos; disponibilidade sujeita aos provedores. -->
+## GitHub — painel de atividade
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alicesilvadr&amp;show_icons=true&amp;hide_border=true&amp;bg_color=570209&amp;title_color=f4dfdf&amp;icon_color=f4dfdf&amp;text_color=f7f1e5" width="55%" alt="Estatísticas públicas do GitHub de Alice" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicesilvadr&amp;layout=compact&amp;hide_border=true&amp;bg_color=570209&amp;title_color=f4dfdf&amp;text_color=f7f1e5" width="40%" alt="Linguagens nos repositórios de Alice" />
+<img src="https://github-readme-stats.vercel.app/api?username=alicesilvadr&amp;show_icons=true&amp;hide_border=false&amp;border_color=a41817&amp;bg_color=570209&amp;title_color=f4dfdf&amp;icon_color=f4dfdf&amp;text_color=f7f1e5&amp;hide_rank=true" width="100%" alt="Estatísticas públicas do GitHub de Alice Silva" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicesilvadr&amp;layout=compact&amp;hide_border=false&amp;border_color=a41817&amp;bg_color=570209&amp;title_color=f4dfdf&amp;text_color=f7f1e5" width="100%" alt="Linguagens presentes nos repositórios analisados" />
 
 <sub>As linguagens refletem o código dos repositórios analisados pelo serviço.</sub>
 
-![Sequência de contribuições](https://streak-stats.demolab.com?user=alicesilvadr&hide_border=true&background=570209&ring=a41817&fire=a41817&currStreakLabel=a41817&sideLabels=f7f1e5&dates=f4dfdf&currStreakNum=f7f1e5&sideNums=f7f1e5)
+<img src="https://streak-stats.demolab.com?user=alicesilvadr&amp;hide_border=false&amp;border=a41817&amp;background=570209&amp;ring=f4dfdf&amp;fire=f7f1e5&amp;currStreakLabel=f4dfdf&amp;sideLabels=f7f1e5&amp;dates=f4dfdf&amp;currStreakNum=f7f1e5&amp;sideNums=f7f1e5" width="100%" alt="Sequência de contribuições no GitHub" />
 
-![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=alicesilvadr&bg_color=570209&color=f7f1e5&line=f4dfdf&point=f7f1e5&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alicesilvadr&amp;bg_color=570209&amp;color=f7f1e5&amp;line=f4dfdf&amp;point=f7f1e5&amp;area=true&amp;hide_border=true" width="100%" alt="Gráfico de atividade pública no GitHub" />
 
 </div>
 
 <details>
-<summary>Conquistas na plataforma</summary>
+<summary><strong>GitHub Trophies · conquistas na plataforma</strong></summary>
 
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=alicesilvadr&theme=dracula&no-frame=true&no-bg=true&column=3)
-
-</details>
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=alicesilvadr&theme=oldie&no-frame=true&no-bg=true&column=3)
 
 </details>
 
-<!-- SNAKE: remova este comentário externo após a primeira execução do workflow.
 ## Cada contribuição faz parte da jornada
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alicesilvadr/alicesilvadr/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alicesilvadr/alicesilvadr/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação das minhas contribuições no GitHub" src="https://raw.githubusercontent.com/alicesilvadr/alicesilvadr/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/alicesilvadr/alicesilvadr/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animada percorrendo minhas contribuições no GitHub" />
 </picture>
--->
 
 ## Vamos conectar
 
-### Sua próxima ideia pode começar aqui.
+**Sua próxima ideia pode começar aqui.**
 
-Uma landing page, um website ou uma loja virtual: vamos conversar sobre a presença digital da sua marca.
+Para conversar sobre websites, landing pages e e-commerce:
 
-[![GitHub](https://img.shields.io/badge/GitHub-Alice_Silva-a41817?style=for-the-badge&logo=github&logoColor=f7f1e5&labelColor=570209)](https://github.com/alicesilvadr)
+[![Instagram profissional](https://img.shields.io/badge/Instagram-alicesilva.dev-a41817?style=for-the-badge&logo=instagram&logoColor=f7f1e5&labelColor=570209)](https://www.instagram.com/alicesilva.dev/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-alicesilva.dev-a41817?style=for-the-badge&logo=instagram&logoColor=f7f1e5&labelColor=570209)](https://www.instagram.com/alicesilva.dev/)
+**Contato para orçamento:** +55 (48) 99938-8729
 
-**Contato para orçamento:** [+55 (48) 99938-8729](tel:+5548999388729)
+<!-- Se confirmar que o número tem WhatsApp, o link é https://wa.me/5548999388729 -->
 
-<!-- Caso confirme que o número tem WhatsApp, pode usar: https://wa.me/5548999388729 -->
----
-
-<div align="center">
-
-**Alice.Dev**  
-<sub>Criatividade na essência. Tecnologia na construção.</sub>
-
-`< / >` · `made with intention`
-
-</div>
-
-
-
-
-
+<img src="assets/rodape-alice.svg" width="100%" alt="Alice.Dev — Criatividade na essência. Tecnologia na construção." />
