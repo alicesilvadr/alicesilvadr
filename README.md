@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="assets/logo-alice.png" width="200" alt="Logo Alice Silva developer — marca Alice.Dev" />
+
 ![Inicialização Alice Silva](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=1000&color=B56B78&center=true&vCenter=true&width=700&height=45&lines=%3E+Inicializando+Alice+Silva...;%3E+Criatividade+%2B+tecnologia+%2B+prop%C3%B3sito;%3E+Bem-vindo+ao+meu+universo+digital.)
 
-# Alice Silva
+# Alice Silva | Alice.Dev
 
-**Desenvolvedora Web · Graduanda em Engenharia de Software**
+**Desenvolvedora Web Front-end · Graduanda em Engenharia de Software**
 
 *Da ideia à presença digital: construindo experiências com identidade.*
 
@@ -22,11 +24,21 @@
 
 Olá! Sou a **Alice Silva**, desenvolvedora web e graduanda em **Engenharia de Software**. Estou construindo minha trajetória conectando desenvolvimento, criatividade e a criação de sites e soluções digitais.
 
-Minha marca traduz esse encontro: uma identidade elegante, com personalidade, que também quero levar para as experiências que desenvolvo.
+Minha marca, **Alice.Dev**, conecta criatividade e tecnologia na criação de websites, landing pages e e-commerce. Também sou membra da equipe de desenvolvimento web front-end da **JW Soluções Digitais**.
 
 Aqui compartilho projetos de estudo e a evolução da minha prática. Os projetos que desenvolvi em um curso fazem parte dessa base: cada um é uma oportunidade de aplicar conceitos, entender decisões e melhorar minhas soluções.
 
 > **Meu foco:** transformar ideias em experiências digitais que comuniquem a identidade de cada negócio.
+
+## Sites e soluções digitais
+
+| Serviço | Foco |
+| --- | --- |
+| Websites | Apresentar marcas, serviços e informações |
+| Landing pages | Comunicar uma oferta com clareza |
+| E-commerce | Criar a presença digital de uma loja |
+
+[Conversar sobre um projeto](#vamos-conectar)
 
 ## Tecnologias e ferramentas
 
@@ -43,9 +55,18 @@ Aqui compartilho projetos de estudo e a evolução da minha prática. Os projeto
 
 ![GitHub](https://img.shields.io/badge/GitHub-17141C?style=for-the-badge&logo=github&logoColor=EEE6DC)
 
+**Ferramentas que utilizo**
+
+| Área | Ferramentas |
+| --- | --- |
+| Criação e interfaces | WordPress · Figma · Lovable · GIMP |
+| Desenvolvimento e ambiente | VS Code · Android Studio · Docker · FileZilla |
+| Apoio com IA | Claude · ChatGPT · Antigravity |
+| Colaboração | Discord |
+
 ## Projetos em destaque
 
-Os projetos abaixo fazem parte da minha trajetória de estudo em desenvolvimento web. São exercícios de curso, apresentados com seu contexto de aprendizado.
+Os projetos abaixo fazem parte da minha trajetória de estudo em desenvolvimento web. São estudos do curso **HTML5 e CSS3**, de **Gustavo Guanabara — Curso em Vídeo**, apresentados com seu contexto de aprendizado.
 
 ### 01 / Interface de login
 
@@ -103,7 +124,7 @@ alice@digital-studio:~$ roadmap
 
 ## Atividade no GitHub
 
-<!-- Estes serviços são externos e podem ficar indisponíveis ou exigir configuração própria. Substitua alicesilvadr em todas as URLs. -->
+<!-- Indicadores de serviços externos; disponibilidade sujeita aos provedores. -->
 
 <div align="center">
 
@@ -126,15 +147,17 @@ alice@digital-studio:~$ roadmap
 
 </details>
 
+<!-- SNAKE: remova este comentário externo após a primeira execução do workflow.
 ## Cada contribuição faz parte da jornada
 
-<!-- A imagem aparece depois da primeira execução bem-sucedida do workflow snake.yml. -->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alicesilvadr/alicesilvadr/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alicesilvadr/alicesilvadr/output/github-contribution-grid-snake.svg" />
   <img alt="Animação das minhas contribuições no GitHub" src="https://raw.githubusercontent.com/alicesilvadr/alicesilvadr/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+-->
 
 ## Vamos conectar
 
@@ -142,15 +165,20 @@ alice@digital-studio:~$ roadmap
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alice_Silva-651321?style=for-the-badge&logo=github&logoColor=EEE6DC&labelColor=17141C)](https://github.com/alicesilvadr)
 
-<!-- Adicione aqui seu Instagram profissional, LinkedIn e portfólio quando confirmar os links. -->
+[![Instagram](https://img.shields.io/badge/Instagram-alicesilva.dev-B56B78?style=for-the-badge&logo=instagram&logoColor=EEE6DC&labelColor=17141C)](https://www.instagram.com/alicesilva.dev/)
+
+**Contato para orçamento:** [+55 (48) 99938-8729](tel:+5548999388729)
+
+<!-- Caso confirme que o número tem WhatsApp, pode usar: https://wa.me/5548999388729 -->
 ---
 
 <div align="center">
 
-**Alice Silva**  
+**Alice.Dev**  
 <sub>Criatividade na essência. Tecnologia na construção.</sub>
 
 `< / >` · `made with intention`
 
 </div>
+
 
