@@ -1,25 +1,17 @@
 <div align="center">
 
-<img src="assets/logo-alice.png" width="200" alt="Logo Alice Silva developer — marca Alice.Dev" />
+<img src="assets/banner-alice.svg" width="100%" alt="Oi, eu sou a Alice — desenvolvedora web front-end, marca Alice.Dev" />
 
-![Inicialização Alice Silva](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=1000&color=B56B78&center=true&vCenter=true&width=700&height=45&lines=%3E+Inicializando+Alice+Silva...;%3E+Criatividade+%2B+tecnologia+%2B+prop%C3%B3sito;%3E+Bem-vindo+ao+meu+universo+digital.)
+![Inicializando Alice.Dev](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2400&pause=1200&color=f4dfdf&center=true&vCenter=true&width=680&height=48&lines=%3E+Criatividade+na+ess%C3%AAncia.+Tecnologia+na+constru%C3%A7%C3%A3o.;%3E+Desenvolvedora+Web+Front-end;%3E+Graduanda+em+Engenharia+de+Software)
 
-# Alice Silva | Alice.Dev
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-alicesilva.dev-a41817?style=flat-square&logo=instagram&logoColor=f7f1e5&labelColor=570209)](https://www.instagram.com/alicesilva.dev/)
+![Marca](https://img.shields.io/badge/ALICE.DEV-WEBSITES_%26_SOLUÇÕES-a41817?style=flat-square&labelColor=570209)
 
-**Desenvolvedora Web Front-end · Graduanda em Engenharia de Software**
-
-*Da ideia à presença digital: construindo experiências com identidade.*
-
-![Desenvolvimento web](https://img.shields.io/badge/Desenvolvimento-Web-651321?style=for-the-badge&labelColor=17141C)
-![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-Em_formação-B56B78?style=for-the-badge&labelColor=17141C)
-![Soluções digitais](https://img.shields.io/badge/Soluções-Digitais-EEE6DC?style=for-the-badge&labelColor=17141C)
-
-[Projetos](#projetos-em-destaque) · [Minha trajetória](#sobre-mim) · [Contato](#vamos-conectar)
+**[Minha trajetória](#sobre-mim) &nbsp; / &nbsp; [Projetos](#projetos-em-destaque) &nbsp; / &nbsp; [Vamos criar](#vamos-conectar)**
 
 </div>
 
 ---
-
 ## Sobre mim
 
 Olá! Sou a **Alice Silva**, desenvolvedora web e graduanda em **Engenharia de Software**. Estou construindo minha trajetória conectando desenvolvimento, criatividade e a criação de sites e soluções digitais.
@@ -32,11 +24,7 @@ Aqui compartilho projetos de estudo e a evolução da minha prática. Os projeto
 
 ## Sites e soluções digitais
 
-| Serviço | Foco |
-| --- | --- |
-| Websites | Apresentar marcas, serviços e informações |
-| Landing pages | Comunicar uma oferta com clareza |
-| E-commerce | Criar a presença digital de uma loja |
+![Websites, landing pages e e-commerce](assets/faixa-servicos.svg)
 
 [Conversar sobre um projeto](#vamos-conectar)
 
@@ -44,16 +32,16 @@ Aqui compartilho projetos de estudo e a evolução da minha prática. Os projeto
 
 **Base aplicada nos meus projetos de estudo**
 
-![HTML5](https://img.shields.io/badge/HTML5-651321?style=for-the-badge&logo=html5&logoColor=EEE6DC)
-![CSS3](https://img.shields.io/badge/CSS3-B56B78?style=for-the-badge&logo=css&logoColor=EEE6DC)
+![HTML5](https://img.shields.io/badge/HTML5-a41817?style=for-the-badge&logo=html5&logoColor=f7f1e5)
+![CSS3](https://img.shields.io/badge/CSS3-a41817?style=for-the-badge&logo=css&logoColor=f7f1e5)
 
 **Trilha de aprendizado**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Em_estudo-EEE6DC?style=for-the-badge&logo=javascript&logoColor=EEE6DC&labelColor=17141C)
+![JavaScript](https://img.shields.io/badge/JavaScript-Em_estudo-f7f1e5?style=for-the-badge&logo=javascript&logoColor=f7f1e5&labelColor=570209)
 
 **Onde compartilho minha evolução**
 
-![GitHub](https://img.shields.io/badge/GitHub-17141C?style=for-the-badge&logo=github&logoColor=EEE6DC)
+![GitHub](https://img.shields.io/badge/GitHub-570209?style=for-the-badge&logo=github&logoColor=f7f1e5)
 
 **Ferramentas que utilizo**
 
@@ -68,7 +56,7 @@ Aqui compartilho projetos de estudo e a evolução da minha prática. Os projeto
 
 Os projetos abaixo fazem parte da minha trajetória de estudo em desenvolvimento web. São estudos do curso **HTML5 e CSS3**, de **Gustavo Guanabara — Curso em Vídeo**, apresentados com seu contexto de aprendizado.
 
-### 01 / Interface de login
+[![Interface de login — estudo de front-end](assets/projeto-login.svg)](https://github.com/alicesilvadr/projeto-login)
 
 **Projeto de estudo · HTML e CSS**
 
@@ -81,7 +69,7 @@ Interface com campos de e-mail e senha, ícones e folhas de estilo para adaptaç
 
 ---
 
-### 02 / Cordel Moderno
+[![Cordel Moderno — estudo de front-end](assets/projeto-cordel.svg)](https://github.com/alicesilvadr/projeto-cordel)
 
 **Projeto de curso · HTML e CSS**
 
@@ -94,7 +82,7 @@ Página dedicada ao cordel de Milton Duarte, combinando poesia, tipografia e se�
 
 ---
 
-### 03 / História do mascote Android
+[![História do mascote Android — estudo de front-end](assets/projeto-android.svg)](https://github.com/alicesilvadr/projeto-android)
 
 **Projeto de curso · HTML e CSS**
 
@@ -122,21 +110,23 @@ alice@digital-studio:~$ roadmap
 > Aprender. Construir. Refinar.
 ```
 
+<details open>
+<summary><strong>Painel de atividade</strong></summary>
+
 ## Atividade no GitHub
 
 <!-- Indicadores de serviços externos; disponibilidade sujeita aos provedores. -->
 
 <div align="center">
 
-![Estatísticas de Alice](https://github-readme-stats.vercel.app/api?username=alicesilvadr&show_icons=true&hide_border=true&bg_color=17141C&title_color=B56B78&icon_color=B56B78&text_color=EEE6DC)
-
-![Linguagens nos repositórios](https://github-readme-stats.vercel.app/api/top-langs/?username=alicesilvadr&layout=compact&hide_border=true&bg_color=17141C&title_color=B56B78&text_color=EEE6DC)
+<img src="https://github-readme-stats.vercel.app/api?username=alicesilvadr&amp;show_icons=true&amp;hide_border=true&amp;bg_color=570209&amp;title_color=f4dfdf&amp;icon_color=f4dfdf&amp;text_color=f7f1e5" width="55%" alt="Estatísticas públicas do GitHub de Alice" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicesilvadr&amp;layout=compact&amp;hide_border=true&amp;bg_color=570209&amp;title_color=f4dfdf&amp;text_color=f7f1e5" width="40%" alt="Linguagens nos repositórios de Alice" />
 
 <sub>As linguagens refletem o código dos repositórios analisados pelo serviço.</sub>
 
-![Sequência de contribuições](https://streak-stats.demolab.com?user=alicesilvadr&hide_border=true&background=17141C&ring=B56B78&fire=B56B78&currStreakLabel=B56B78&sideLabels=EEE6DC&dates=AD9CA6&currStreakNum=EEE6DC&sideNums=EEE6DC)
+![Sequência de contribuições](https://streak-stats.demolab.com?user=alicesilvadr&hide_border=true&background=570209&ring=a41817&fire=a41817&currStreakLabel=a41817&sideLabels=f7f1e5&dates=f4dfdf&currStreakNum=f7f1e5&sideNums=f7f1e5)
 
-![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=alicesilvadr&bg_color=17141C&color=EEE6DC&line=B56B78&point=EEE6DC&area=true&hide_border=true)
+![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=alicesilvadr&bg_color=570209&color=f7f1e5&line=f4dfdf&point=f7f1e5&area=true&hide_border=true)
 
 </div>
 
@@ -144,6 +134,8 @@ alice@digital-studio:~$ roadmap
 <summary>Conquistas na plataforma</summary>
 
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=alicesilvadr&theme=dracula&no-frame=true&no-bg=true&column=3)
+
+</details>
 
 </details>
 
@@ -161,11 +153,13 @@ alice@digital-studio:~$ roadmap
 
 ## Vamos conectar
 
-**Tem uma ideia para um site ou uma solução digital? Vamos conversar.**
+### Sua próxima ideia pode começar aqui.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Alice_Silva-651321?style=for-the-badge&logo=github&logoColor=EEE6DC&labelColor=17141C)](https://github.com/alicesilvadr)
+Uma landing page, um website ou uma loja virtual: vamos conversar sobre a presença digital da sua marca.
 
-[![Instagram](https://img.shields.io/badge/Instagram-alicesilva.dev-B56B78?style=for-the-badge&logo=instagram&logoColor=EEE6DC&labelColor=17141C)](https://www.instagram.com/alicesilva.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-Alice_Silva-a41817?style=for-the-badge&logo=github&logoColor=f7f1e5&labelColor=570209)](https://github.com/alicesilvadr)
+
+[![Instagram](https://img.shields.io/badge/Instagram-alicesilva.dev-a41817?style=for-the-badge&logo=instagram&logoColor=f7f1e5&labelColor=570209)](https://www.instagram.com/alicesilva.dev/)
 
 **Contato para orçamento:** [+55 (48) 99938-8729](tel:+5548999388729)
 
@@ -180,5 +174,8 @@ alice@digital-studio:~$ roadmap
 `< / >` · `made with intention`
 
 </div>
+
+
+
 
 
